@@ -2,7 +2,7 @@
 //  Location.swift
 //  SwiftUIMapApplication
 //
-//  Created by MSS on 19/04/24.
+//  Created by Jagadish Paul on 19/04/24.
 //
 
 import Foundation

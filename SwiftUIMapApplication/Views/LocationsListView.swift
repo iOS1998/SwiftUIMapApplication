@@ -2,7 +2,7 @@
 //  LocationsListView.swift
 //  SwiftUIMapApplication
 //
-//  Created by MSS on 22/04/24.
+//  Created by Jagadish Paul on 22/04/24.
 //
 
 import SwiftUI
